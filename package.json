@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js"
   },
   "keywords": [],
-  "author": "Weerasak Ratchawangmueang",
+  "author": "Thanakrit Jinjai",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.6"
